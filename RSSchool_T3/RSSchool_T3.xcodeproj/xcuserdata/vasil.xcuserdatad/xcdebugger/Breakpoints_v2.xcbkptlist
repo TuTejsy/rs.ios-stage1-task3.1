@@ -304,5 +304,131 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "267118C3-F957-4958-AAA0-1F0C45024D7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3Tests/T3_CombinatorTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "-testCheckChoose6"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "267118C3-F957-4958-AAA0-1F0C45024D7B - 6ad4a61411e1087e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[T3_CombinatorTests testCheckChoose6]"
+                  moduleName = "RSSchool_T3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasil/Documents/Objective-C/RollingScopes/rs.ios-stage1-task3.1/RSSchool_T3/RSSchool_T3Tests/T3_CombinatorTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "194">
+               </Location>
+               <Location
+                  uuid = "267118C3-F957-4958-AAA0-1F0C45024D7B - 6ad4a61411e1087e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[T3_CombinatorTests testCheckChoose6]"
+                  moduleName = "RSSchool_T3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasil/Documents/Objective-C/RollingScopes/rs.ios-stage1-task3.1/RSSchool_T3/RSSchool_T3Tests/T3_CombinatorTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "267118C3-F957-4958-AAA0-1F0C45024D7B - 6ad4a61411e1087e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[T3_CombinatorTests testCheckChoose6]"
+                  moduleName = "RSSchool_T3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasil/Documents/Objective-C/RollingScopes/rs.ios-stage1-task3.1/RSSchool_T3/RSSchool_T3Tests/T3_CombinatorTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "679">
+               </Location>
+               <Location
+                  uuid = "267118C3-F957-4958-AAA0-1F0C45024D7B - 6ad4a61411e1087e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[T3_CombinatorTests testCheckChoose6]"
+                  moduleName = "RSSchool_T3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasil/Documents/Objective-C/RollingScopes/rs.ios-stage1-task3.1/RSSchool_T3/RSSchool_T3Tests/T3_CombinatorTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "744">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47E3B260-E152-456B-956B-9FB3D21B3FDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/2/Combinator.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "-chechChooseFromArray:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B151ED9-58DB-4A03-91F1-736E7AF8C9D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/2/Combinator.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "-chechChooseFromArray:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37D01863-6AAC-410D-984D-967ECA2CD918"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/2/Combinator.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "-chechChooseFromArray:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
